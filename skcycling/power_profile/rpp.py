@@ -526,7 +526,7 @@ class Rpp(object):
         #call _find_Tmap_MAP
         #call _find_AEI
 
-        #add return Tmap MAP AEI and R²_AEI
+        #add return Tmap MAP AEI and R2_AEI
 
         return slope, intercept, std_err, coeff_det
 
