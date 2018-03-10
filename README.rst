@@ -15,7 +15,7 @@ Scikit-cycling
   :target: https://codecov.io/gh/scikit-cycling/scikit-cycling
 
 .. image:: https://badges.gitter.im/Join%20Chat.svg
-  :target  https://gitter.im/scikit-cycling/Lobby?utm_source=share-link&utm_medium=link&utm_cam   paign=share-link
+  :target: https://gitter.im/scikit-cycling/Lobby?utm_source=share-link&utm_medium=link&utm_cam
 
 Installation
 ------------
